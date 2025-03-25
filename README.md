@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hi I'm Guilherme! 👋
 
 Welcome to my little world where I will share some of my works and projects while attending college at FIAP.
 I am still learning and am completly open to sugestions and tips on how to improve
