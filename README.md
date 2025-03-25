@@ -1,9 +1,8 @@
-# Hi I'm Guilherme! 👋
+# Hi, I'm Guilherme! 👋
 
-Welcome to my little world where I will share some of my works and projects while attending college at FIAP.
-I am still learning and am completly open to sugestions and tips on how to improve
+I am currently studying Information Systems at FIAP, on my 5th semester, I´m exploring some programing languages to find out my favorite one.
 
-## Some of the languages I am currently work with:
+## Some of the languages I am currently working with:
 
 | Language | Icon |
 |----------|------|
