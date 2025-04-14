@@ -11,7 +11,7 @@ I am currently studying Information Systems at FIAP, on my 5th semester, I´m ex
 
 
 <a href="https://github.com/Guilherme26BC">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme26BC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="100" height ="100"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme26BC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme26BC&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
