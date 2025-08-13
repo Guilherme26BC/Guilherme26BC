@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme! 👋
 
-I am currently studying Information Systems at FIAP, on my 5th semester, I´m exploring some programing languages to find out my favorite one.
+I am currently studying Information Systems at FIAP, on my 6th semester, I´m exploring some programing languages to find out my favorite one.
 
 ## Some of the languages I am currently working with:
 
